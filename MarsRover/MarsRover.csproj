@@ -6,4 +6,8 @@
     <StartupObject>MarsRover.Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net5.0\Data\InputFile.txt" />
+  </ItemGroup>
+
 </Project>
